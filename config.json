@@ -4,8 +4,8 @@
     "local_address": "127.0.0.1",
     "local_port": 1080,
 	"port_password":{
-		"15176":"q11111111",
-        "15175":{"method":"chacha20","protocol":"auth_sha1_v4_compatible", "password":"xxxxxxxx", "obfs":"tls1.2_ticket_auth_compatible", "obfs_param":""}
+		"15176":"q1111111",
+        "15175":{"method":"chacha20","protocol":"auth_sha1_v4_compatible", "password":"q1111111", "obfs":"tls1.2_ticket_auth_compatible", "obfs_param":""}
 	},
     "password": "password@8388",
     "timeout": 120,
