@@ -9,7 +9,7 @@ RUN mkdir /ssr \
     && cd /ssr \
     && wget --no-check-certificate https://github.com/breakwa11/shadowsocks/archive/manyuser.zip -O /manyuser.zip \
     && unzip -d / /manyuser.zip \
-    && mv /shadowsocks-manyuser/shadowsocks /ssr/shadowsocks \
+    && mv /shadowsocksr-manyuser/shadowsocks /ssr/shadowsocks \
 
 ADD config.json /config.json
 
