@@ -3,7 +3,7 @@
     "server_ipv6": "::",
     "local_address": "127.0.0.1",
     "local_port": 1080,
-    "server_port": 443
+    "server_port": 443,
     "password": "A43gp$wW",
     "timeout": 120,
     "method": "aes-256-cfb",
